@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace LeetCode
+namespace MergeStringsAlternatively
 {
     internal class Program
     {
