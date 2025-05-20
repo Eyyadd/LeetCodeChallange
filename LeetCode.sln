@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeStringsAlternatively", "MergeStringsAlternatively.csproj", "{D61F9609-A00F-4402-B792-06A362A6E007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse_Vowels_of_a_String", "..\Greatest Common Divisor of Strings\Reverse_Vowels_of_a_String.csproj", "{DEAE77C6-A0BB-4676-A4D1-E886B74E85F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D61F9609-A00F-4402-B792-06A362A6E007}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D61F9609-A00F-4402-B792-06A362A6E007}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D61F9609-A00F-4402-B792-06A362A6E007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEAE77C6-A0BB-4676-A4D1-E886B74E85F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAE77C6-A0BB-4676-A4D1-E886B74E85F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAE77C6-A0BB-4676-A4D1-E886B74E85F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAE77C6-A0BB-4676-A4D1-E886B74E85F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
