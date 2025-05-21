@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeStringsAlternatively",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse_Vowels_of_a_String", "..\Greatest Common Divisor of Strings\Reverse_Vowels_of_a_String.csproj", "{DEAE77C6-A0BB-4676-A4D1-E886B74E85F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Words in a String", "..\Reverse Words in a String\Reverse Words in a String.csproj", "{0A396FB4-4569-4D7D-B9BC-88B684A9F89E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Can Place Flowers", "..\Can Place Flowers\Can Place Flowers.csproj", "{4D41477A-BD7B-4390-8CBC-C0D79E0D9190}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{DEAE77C6-A0BB-4676-A4D1-E886B74E85F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEAE77C6-A0BB-4676-A4D1-E886B74E85F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEAE77C6-A0BB-4676-A4D1-E886B74E85F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A396FB4-4569-4D7D-B9BC-88B684A9F89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A396FB4-4569-4D7D-B9BC-88B684A9F89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A396FB4-4569-4D7D-B9BC-88B684A9F89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A396FB4-4569-4D7D-B9BC-88B684A9F89E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D41477A-BD7B-4390-8CBC-C0D79E0D9190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D41477A-BD7B-4390-8CBC-C0D79E0D9190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D41477A-BD7B-4390-8CBC-C0D79E0D9190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D41477A-BD7B-4390-8CBC-C0D79E0D9190}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
