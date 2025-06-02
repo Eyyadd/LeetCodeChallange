@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Can Place Flowers", "..\Can
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kids With the Greatest Number of Candies", "..\Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies.csproj", "{5881E0CA-6222-4AC6-9F80-D60A3F6FC096}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guess Number Higher or Lower", "..\Guess Number Higher or Lower\Guess Number Higher or Lower.csproj", "{4294BA3D-F759-4332-8A48-D73B4A9D5837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Compression", "..\String Compression\String Compression.csproj", "{0831D693-4985-408E-A7F3-0FF1EFE164C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{5881E0CA-6222-4AC6-9F80-D60A3F6FC096}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5881E0CA-6222-4AC6-9F80-D60A3F6FC096}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5881E0CA-6222-4AC6-9F80-D60A3F6FC096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4294BA3D-F759-4332-8A48-D73B4A9D5837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4294BA3D-F759-4332-8A48-D73B4A9D5837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4294BA3D-F759-4332-8A48-D73B4A9D5837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4294BA3D-F759-4332-8A48-D73B4A9D5837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0831D693-4985-408E-A7F3-0FF1EFE164C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0831D693-4985-408E-A7F3-0FF1EFE164C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0831D693-4985-408E-A7F3-0FF1EFE164C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0831D693-4985-408E-A7F3-0FF1EFE164C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
